@@ -1,6 +1,4 @@
-package com.pratice.firstcodingassignment;
-
-import com.sun.corba.se.spi.presentation.rmi.PresentationManager;
+package com.practice.firstcodingassignment;
 
 import java.util.ArrayList;
 import java.util.List;

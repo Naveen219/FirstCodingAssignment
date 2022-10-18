@@ -1,4 +1,4 @@
-package com.pratice.firstcodingassignment;
+package com.practice.firstcodingassignment;
 
 import java.util.List;
 
